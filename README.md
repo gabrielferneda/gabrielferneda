@@ -13,6 +13,10 @@
 
 Sou apaixonado por **programação** e **games**! Tenho 26 anos, sou de São Paulo-SP e estou em uma jornada de transição de carreira. Sou **Jornalista** de formação, mas agora estou me dedicando à **área de desenvolvimento**. Vamos construir juntos o futuro da tecnologia!
 
+<p align="center">
+  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
+</p>
+
 ## Vamos nos conectar! 🌐
 
 [![Instagram](https://i.ibb.co/qkGSp1D/instagram.png)](https://www.instagram.com/gaa_ferneda/)
@@ -31,9 +35,3 @@ Atualmente estou me aprofundando nas seguintes ferramentas e tecnologias:
 </div>
 
 ---
-
-## GIF de Alegria 🎉
-
-Por fim, deixo esse gif para expressar meu entusiasmo! 😄
-
-![Dogs Clap GIF](https://media.tenor.com/images/00d9ec8b3b0a4f587f9e2f9c4d0d88f5/tenor.gif)
