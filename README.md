@@ -7,19 +7,22 @@
 </br>
  
  
- <h1 align="left">Gabriel Ferneda</h1>
-<a href="https://www.instagram.com/gaa_ferneda/">
-    <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
-  </a> 
-  <a href="https://www.linkedin.com/in/gabriel-ferneda98">
-    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
-  </a>
+## Olá, Devs! 👋
 
-## Hello, Devs!!
+### Eu sou o Gabriel Ferneda! 🚀
 
-Tenho 26 anos, sou de São Paulo-SP e adoro programação e games! Jornalista de formação mas em transição de carreira para a área dev.
+Sou apaixonado por **programação** e **games**! Tenho 26 anos, sou de São Paulo-SP e estou em uma jornada de transição de carreira. Sou **Jornalista** de formação, mas agora estou me dedicando à **área de desenvolvimento**. Vamos construir juntos o futuro da tecnologia!
 
-## Estou aprendendo
+## Vamos nos conectar! 🌐
+
+[![Instagram](https://i.ibb.co/qkGSp1D/instagram.png)](https://www.instagram.com/gaa_ferneda/)
+[![LinkedIn](https://i.ibb.co/RyZx12b/linkedin.png)](https://www.linkedin.com/in/gabriel-ferneda98)
+
+---
+
+## Ferramentas que estou aprendendo 🛠️
+
+Atualmente estou me aprofundando nas seguintes ferramentas e tecnologias:
 
 <div style="display: flex; justify-content: space-evenly; gap: 20px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="50" alt="Visual Studio">
@@ -27,8 +30,10 @@ Tenho 26 anos, sou de São Paulo-SP e adoro programação e games! Jornalista de
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" alt="Git">
 </div>
 
-<div>
-<a href="https://github.com/gabrielferneda">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+---
+
+## GIF de Alegria 🎉
+
+Por fim, deixo esse gif para expressar meu entusiasmo! 😄
+
+![Dogs Clap GIF](https://media.tenor.com/images/00d9ec8b3b0a4f587f9e2f9c4d0d88f5/tenor.gif)
