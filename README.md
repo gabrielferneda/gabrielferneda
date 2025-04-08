@@ -9,7 +9,7 @@
  
 ## Olá, Devs! 👋
 
-### Eu sou o Gabriel Ferneda! 🚀
+### Me chamo Gabriel Ferneda! 🚀
 
 Sou apaixonado por **programação** e **games**! Tenho 26 anos, sou de São Paulo-SP e estou em uma jornada de transição de carreira. Sou **Jornalista** de formação, mas agora estou me dedicando à **área de desenvolvimento**. Vamos construir juntos o futuro da tecnologia!
 
