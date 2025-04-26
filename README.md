@@ -37,6 +37,3 @@ Sou apaixonado por **programação** e **games**! Tenho 26 anos, sou de São Pau
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielferneda&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielferneda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
-
-![Snake animation](https://github.com/gabrielferneda/gabrielferneda/blob/output/github-contribution-grid-snake.sv
